@@ -17,4 +17,3 @@ r = r_upper/sqrt(r_lower1*r_lower2);
 x1 = ['相关系数为：',num2str(r)];
 disp(x1); % 主对角线为自相关系数 副对角线为相关系数
 end
-
