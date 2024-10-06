@@ -14,4 +14,3 @@ elseif nargin == 1 && nargout == 2
 else
     result1 = a*b
 end
-
