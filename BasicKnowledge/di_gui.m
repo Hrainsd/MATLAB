@@ -8,5 +8,3 @@ else
 end
 jc = result;
 end
-
-
