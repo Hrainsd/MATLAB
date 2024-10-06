@@ -13,4 +13,3 @@ cov_ = c_upper/(n-1);
 x2 = ['协方差为：',num2str(cov_)];
 disp(x2); % 主对角线为自协方差 副对角线为协方差
 end
-
