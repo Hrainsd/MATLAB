@@ -12,4 +12,3 @@ Standard = sqrt(standard_/(n-1));
 x = ['标准差为：',num2str(Standard)];
 disp(x);
 end
-
